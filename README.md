@@ -1,7 +1,7 @@
 # Portfolio
 Portafolio Desarrollador Web Junior
 
-###Tecnologias:
+### Tecnologias:
 
 - HTML
 - CSS
