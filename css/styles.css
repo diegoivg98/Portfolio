@@ -37,7 +37,7 @@ body {
 
 .ml2 {
   font-weight: 600;
-  font-size: 3.5em;
+  font-size:10vw;
   color: aliceblue;
 }
 
@@ -53,7 +53,7 @@ body {
 
 .ml3 {
   font-weight: 900;
-  font-size: 2.5em;
+  font-size:10vw
 }
 
 li{
