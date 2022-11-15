@@ -1,0 +1,81 @@
+* {
+  font-family: "Arial, Helvetica, sans-serif", serif;
+}
+
+body {
+  width: 100%;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.navbar {
+  background-color: #f0d56b;
+}
+
+.nav-link {
+  color: black;
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.menu-principal {
+  justify-content: flex-end;
+}
+
+#inicio {
+  background-image: url(../assets/img.png);
+  background-size: cover;
+  background-position: center;
+  padding-block: 240px;
+  font-size: 30px;
+}
+
+#sobre-mi{
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+}
+
+
+.ml2 {
+  font-weight: 600;
+  font-size: 3.5em;
+  color: aliceblue;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+.texto-inicio {
+  font-style: italic;
+  color: snow;
+}
+
+.ml3 {
+  font-weight: 900;
+  font-size: 2.5em;
+}
+
+.titulo-portafolio {
+  font-style: italic;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#tecnologias {
+  background-color: #122c69;
+}
+
+.card {
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  padding: 20px;
+  font-weight: 900;
+  font-size: 15px;
+  height: 50px;
+  background-color: #159596;
+  font-style: unset;
+}
