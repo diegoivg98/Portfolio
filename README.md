@@ -12,3 +12,4 @@ Portafolio Desarrollador Web Junior
 
 - https://uiverse.io/buttons
 - https://tobiasahlin.com/moving-letters/
+- https://mybrandnewlogo.com/es/generador-de-paleta-de-colores
