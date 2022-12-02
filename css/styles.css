@@ -18,9 +18,10 @@ body {
 }
 
 .nav-link {
+  font-family: "Montserrat",sans-serif;
   color: black;
-  font-size: 1em;
-  font-weight: 600;
+  font-size: 1.25rem;
+  font-weight: 400;
 }
 
 .menu-principal {
