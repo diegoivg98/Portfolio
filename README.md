@@ -1,12 +1,12 @@
 # Portfolio
-Portafolio Desarrollador Web Junior
+Portafolio Desarrollador Full Stack
 
 ### Tecnologias:
 
 - HTML
 - CSS
 - JavaScript
-- Bootstrap 5 | Bootstrap Icons
+- Bootstrap 5 & Bootstrap Icons
 
 ### Recursos
 
